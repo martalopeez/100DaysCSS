@@ -3,5 +3,6 @@
 <h4>App donde iré publicando las soluciones diarias al desafío de 100 días de CSS</h4>
 
 :link:  Link del desafío: <a href="https://100dayscss.com/days/1/">100 Days CSS Challenge</a><br>
-:brain:  Pulsa aquí para ver mis soluciones: <a href="https://martalopeez.github.io/100DaysCSS/">100 Days CSS Challenge de Marta</a>
+:brain:  Pulsa aquí para ver mis soluciones: <a href="https://martalopeez.github.io/100DaysCSS/">100 Days CSS Challenge de Marta</a><br>
+:computer:  Mira mi código: <a href="https://codepen.io/your-work/">CodePen de Marta</a>
 
