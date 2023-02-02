@@ -3,7 +3,7 @@ import './Day1.css';
 
 function Day1() {
     return (
-    <div className="frame">
+    <div className="frame1">
         <div className="center">
             <div className="number">
                 <div className="one-one"></div>
@@ -12,7 +12,7 @@ function Day1() {
                 <div className="zero-two"></div>
             </div>
             <div className="divtext">
-              <span className="big">Days</span><br></br>
+              <span className="big">DAYS</span><br></br>
               <span className="small">CSS CHALLENGE</span>
             </div>
         </div>
