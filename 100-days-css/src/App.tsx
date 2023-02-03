@@ -20,7 +20,7 @@ function App() {
           </Suspense>
         </div>
         <div className='buttons'>
-          <button onClick={() => setDay(day>1 ? day-1 : 2)} className='btn'><IoChevronBack size={11} /> Anterior</button>
+          <button onClick={() => setDay(day>1 ? day-1 : 3)} className='btn'><IoChevronBack size={11} /> Anterior</button>
           <button onClick={() => setDay(day<3 ? day+1 : 1)} className='btn'>Siguiente <IoChevronForward size={11} /></button>
         </div>
       </body>
