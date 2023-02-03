@@ -38,7 +38,7 @@
   border: none;
   background: none;
   font-family: 'Satoshi';
-  font-weight: 400;
+  font-weight: bold;
   font-size: medium;
   cursor: pointer;
 }
@@ -49,7 +49,7 @@
 
 .buttons {
   width: 30rem;
-  gap: 15rem;
+  gap: 14.5rem;
   display: flex;
   position: absolute;
   bottom: 60px;
