@@ -9,11 +9,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" className='App-logo' alt='css'/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1147/1147106.png" className='App-logo' alt='css'/>
         <p>100 Days CSS Challenge</p>
       </header>
       <body className='App-body'>
-        <div></div>
         <div className='solution'>
           <Suspense fallback={<div>Cargando solución...</div>}>
             <Day />

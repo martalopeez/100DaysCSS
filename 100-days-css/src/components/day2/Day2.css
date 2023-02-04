@@ -1,18 +1,23 @@
+.day2 {
+	display: flex;
+	gap: 20rem;
+}
+
 .frame2 {
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 70%;
     width: 400px;
     height: 400px;
     margin-top: -200px;
     margin-left: -200px;
     border-radius: 12px;
-      box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
-      overflow: hidden;
+    box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+    overflow: hidden;
     background: #3FAF82;
-      font-family: 'Open Sans', Helvetica, sans-serif;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
   
   .center {
@@ -98,6 +103,29 @@
   .line:nth-child(3) {
       animation: animation3 0.8s ease-in-out forwards;
   }
+
+  .day-info {
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 4px;
+	font-size: calc(15px + 2vmin);
+	font-family: 'Raleway';
+	font-weight: 700;
+}
+  
+.day-number {
+	color: #7b61ff;
+}
+
+.text-info {
+	font-size: calc(4px + 2vmin);
+	font-family: 'Raleway';
+	font-weight: 500;
+}
+
+.challenge-name {
+	font-weight: 700;
+}
   
   @keyframes animation1 {
       0% {

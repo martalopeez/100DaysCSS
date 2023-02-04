@@ -1,14 +1,19 @@
-.frame {
+.day3 {
+	display: flex;
+	gap: 20rem;
+}
+
+.frame3 {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 55%;
+  left: 70%;
   width: 400px;
   height: 400px;
   margin-top: -200px;
   margin-left: -200px;
   border-radius: 12px;
-    box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
-	overflow: hidden;
+  box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+  overflow: hidden;
   background: #272C34;
   color: #333;
 }
